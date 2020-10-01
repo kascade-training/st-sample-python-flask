@@ -1,0 +1,8 @@
+flask
+flask_restful
+Click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+xmlrunner
